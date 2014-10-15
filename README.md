@@ -9,7 +9,7 @@ League of Legends heroes names. That's it!
 <br>
 
 <p align="center">
-  <img width="375" height="360" src="//ih2.redbubble.net/image.14156864.0477/sticker,375x360.u4.png" alt="Teemo">
+  <img width="375" height="360" src="teemo.png" alt="Teemo">
 </p>
 
 ## Usage
@@ -25,7 +25,7 @@ heroes[111];
 
 Inspired by [champion] <3
 
-[champion]: //github.com/KenanY/champion
+[champion]: https://github.com/KenanY/champion
 
-[npm-image]: //img.shields.io/npm/v/heroes.svg
-[npm-url]: //npmjs.org/package/heroes
+[npm-image]: https://img.shields.io/npm/v/heroes.svg
+[npm-url]: https://npmjs.org/package/heroes
