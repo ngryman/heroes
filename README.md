@@ -23,6 +23,8 @@ heroes[111];
 // → Yasuo
 ```
 
+## Thanks
+
 Inspired by [champion] <3
 
 [champion]: https://github.com/KenanY/champion
