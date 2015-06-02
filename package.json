@@ -1,6 +1,6 @@
 {
   "name": "heroes",
-  "version": "0.0.1",
+  "version": "5.10.0",
   "description": "League of Legends heroes names. That's it!",
   "main": "heroes.json",
   "files": [
