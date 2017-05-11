@@ -1,5 +1,7 @@
 # heroes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/heroes.svg)](https://greenkeeper.io/)
+
 [![NPM Version][npm-image]][npm-url]
 
 <br>
